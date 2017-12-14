@@ -1,0 +1,29 @@
+智慧水务移动端报表接口：
+A、进水量接口
+   日：http://127.0.0.1:8080/waterservice/chart/statistics?daytype=day&deptid=33
+   月：http://127.0.0.1:8080/waterservice/chart/statistics?daytype=mon&deptid=33
+   年：http://127.0.0.1:8080/waterservice/chart/statistics?daytype=year&deptid=33
+   季：http://127.0.0.1:8080/waterservice/chart/statistics?daytype=quarter&deptid=33
+
+B、出水量接口
+   日：http://127.0.0.1:8080/waterservice/chart/statisout?daytype=day&deptid=33
+   月：http://127.0.0.1:8080/waterservice/chart/statisout?daytype=mon&deptid=33
+   年：http://127.0.0.1:8080/waterservice/chart/statisout?daytype=year&deptid=33
+   季：http://127.0.0.1:8080/waterservice/chart/statisout?daytype=quarter&deptid=33
+C、进出水量接口
+   日：http://127.0.0.1:8080/waterservice/chart/statinout?daytype=day&deptid=33
+   月：http://127.0.0.1:8080/waterservice/chart/statinout?daytype=mon&deptid=33
+   年：http://127.0.0.1:8080/waterservice/chart/statinout?daytype=year&deptid=33
+   季：http://127.0.0.1:8080/waterservice/chart/statinout?daytype=quarter&deptid=33
+D、用电量接口
+   日：http://127.0.0.1:8080/waterservice/chart/statiele?daytype=day&deptid=33   
+   月：http://127.0.0.1:8080/waterservice/chart/statiele?daytype=mon&deptid=33
+   年：http://127.0.0.1:8080/waterservice/chart/statiele?daytype=year&deptid=33
+   季：http://127.0.0.1:8080/waterservice/chart/statiele?daytype=quarter&deptid=33
+E、中水用电量接口
+   日：http://127.0.0.1:8080/waterservice/chart/statizsele?daytype=day&deptid=33 
+   月：http://127.0.0.1:8080/waterservice/chart/statizsele?daytype=mon&deptid=33
+   年：http://127.0.0.1:8080/waterservice/chart/statizsele?daytype=year&deptid=33
+   季：http://127.0.0.1:8080/waterservice/chart/statizsele?daytype=quarter&deptid=33
+   
+   
