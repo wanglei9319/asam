@@ -1,4 +1,5 @@
 智慧水务移动端报表接口：
+
 A、进水量接口
    日：http://127.0.0.1:8080/waterservice/chart/statistics?daytype=day&deptid=33
    月：http://127.0.0.1:8080/waterservice/chart/statistics?daytype=mon&deptid=33
